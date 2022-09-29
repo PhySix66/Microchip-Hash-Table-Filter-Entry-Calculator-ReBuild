@@ -1,4 +1,4 @@
-# Microchip-Hash-Table-Filter-Entry-Calculator-ReBuild
+# Microchip Hash Table Filter Entry Calculator ReBuild
 Microchip Hash Table Filter Entry Calculator ReBuild
 
 Was searching for the original Microchip Hash Table Filter Entry Calculator.exe, couldn't find it. So I've built one of my own.
