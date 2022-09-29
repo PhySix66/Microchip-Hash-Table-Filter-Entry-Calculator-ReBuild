@@ -1,0 +1,10 @@
+R:\Progs\Visual Studio\Microchip Hash Table Filter Entry Calculator ReBuild\Microchip Hash Table Filter Entry Calculator ReBuild\bin\Debug\Microchip Hash Table Filter Entry Calculator ReBuild.exe.config
+R:\Progs\Visual Studio\Microchip Hash Table Filter Entry Calculator ReBuild\Microchip Hash Table Filter Entry Calculator ReBuild\bin\Debug\Microchip Hash Table Filter Entry Calculator ReBuild.exe
+R:\Progs\Visual Studio\Microchip Hash Table Filter Entry Calculator ReBuild\Microchip Hash Table Filter Entry Calculator ReBuild\bin\Debug\Microchip Hash Table Filter Entry Calculator ReBuild.pdb
+R:\Progs\Visual Studio\Microchip Hash Table Filter Entry Calculator ReBuild\Microchip Hash Table Filter Entry Calculator ReBuild\obj\Debug\Microchip Hash Table Filter Entry Calculator ReBuild.csprojAssemblyReference.cache
+R:\Progs\Visual Studio\Microchip Hash Table Filter Entry Calculator ReBuild\Microchip Hash Table Filter Entry Calculator ReBuild\obj\Debug\Microchip_Hash_Table_Filter_Entry_Calculator_ReBuild.Form1.resources
+R:\Progs\Visual Studio\Microchip Hash Table Filter Entry Calculator ReBuild\Microchip Hash Table Filter Entry Calculator ReBuild\obj\Debug\Microchip_Hash_Table_Filter_Entry_Calculator_ReBuild.Properties.Resources.resources
+R:\Progs\Visual Studio\Microchip Hash Table Filter Entry Calculator ReBuild\Microchip Hash Table Filter Entry Calculator ReBuild\obj\Debug\Microchip Hash Table Filter Entry Calculator ReBuild.csproj.GenerateResource.cache
+R:\Progs\Visual Studio\Microchip Hash Table Filter Entry Calculator ReBuild\Microchip Hash Table Filter Entry Calculator ReBuild\obj\Debug\Microchip Hash Table Filter Entry Calculator ReBuild.csproj.CoreCompileInputs.cache
+R:\Progs\Visual Studio\Microchip Hash Table Filter Entry Calculator ReBuild\Microchip Hash Table Filter Entry Calculator ReBuild\obj\Debug\Microchip Hash Table Filter Entry Calculator ReBuild.exe
+R:\Progs\Visual Studio\Microchip Hash Table Filter Entry Calculator ReBuild\Microchip Hash Table Filter Entry Calculator ReBuild\obj\Debug\Microchip Hash Table Filter Entry Calculator ReBuild.pdb
