@@ -10,5 +10,5 @@ Some changes:
 - multiple MAC Address support
 
 Output:
-Gives full Hash Table (ETH0-7) result, as well as individual results with CRC32 result, for manual validitain of needed.
+Gives full Hash Table (ETH0-7) result, as well as individual results with CRC32 result, for manual validation of needed.
 (Last output line is only for Information is some Hash Table result are the same.)
